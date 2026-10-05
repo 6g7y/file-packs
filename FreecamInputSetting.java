@@ -1,5 +1,3 @@
-package net.wurstclient.hacks.freecam;
-
 import net.wurstclient.settings.EnumSetting;
 import net.wurstclient.util.text.WText;
 
