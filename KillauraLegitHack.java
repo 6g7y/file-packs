@@ -1,5 +1,3 @@
-package net.wurstclient.hacks;
-
 import java.util.Comparator;
 import java.util.function.ToDoubleFunction;
 import java.util.stream.Stream;
