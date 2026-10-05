@@ -1,5 +1,3 @@
-package net.wurstclient.hacks.freecam;
-
 import net.minecraft.util.Mth;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.LivingEntity;
