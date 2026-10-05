@@ -1,5 +1,3 @@
-package net.wurstclient.hacks.chestesp;
-
 import java.util.List;
 import java.util.stream.Stream;
 
